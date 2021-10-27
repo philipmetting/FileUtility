@@ -1,0 +1,3 @@
+Compatible file found: C:\temp\bridge512x512.tif
+Compatible file found: C:\temp\bridge512x512.tif
+C:\temp\bridge512x512.tif was converted to: \\abq-ctxdc-01\c$\Support\bridge512x512.pdf

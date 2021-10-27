@@ -1,0 +1,486 @@
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiffC:\temp\sample - Copy - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy - Copy.tiff.pdfCompatible file found: C:\temp\sample - Copy - Copy.tiffC:\temp\sample - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy.tiff.pdfCompatible file found: C:\temp\sample - Copy.tiffC:\temp\sample - Copy.tiff was converted to: C:\delete\sample - Copy.tiff.pdfCompatible file found: C:\temp\sample.tiffC:\temp\sample.tiff was converted to: C:\delete\sample.tiff.pdfCompatible file found: C:\temp\sample - Copy - Copy - Copy.tiffC:\temp\sample - Copy - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy - Copy.tiff.pdfCompatible file found: C:\temp\sample - Copy - Copy.tiffC:\temp\sample - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy.tiff.pdfCompatible file found: C:\temp\sample - Copy.tiffC:\temp\sample - Copy.tiff was converted to: C:\delete\sample - Copy.tiff.pdfCompatible file found: C:\temp\sample.tiffC:\temp\sample.tiff was converted to: C:\delete\sample.tiff.pdfCompatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: C:\delete\sample - Copy.tiff.pdf
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: C:\delete\sample.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: C:\delete\sample - Copy.tiff.pdf
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: C:\delete\sample.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: C:\delete\sample - Copy.tiff.pdf
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: C:\delete\sample.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: The process cannot access the file 'C:\temp\sample - Copy - Copy - Copy.tiff' because it is being used by another process.
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: The process cannot access the file 'C:\temp\sample - Copy - Copy.tiff' because it is being used by another process.
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: The process cannot access the file 'C:\temp\sample - Copy.tiff' because it is being used by another process.
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: The process cannot access the file 'C:\temp\sample.tiff' because it is being used by another process.
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: The process cannot access the file 'C:\temp\sample - Copy - Copy - Copy.tiff' because it is being used by another process.
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: The process cannot access the file 'C:\temp\sample - Copy - Copy.tiff' because it is being used by another process.
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: The process cannot access the file 'C:\temp\sample - Copy.tiff' because it is being used by another process.
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: The process cannot access the file 'C:\temp\sample.tiff' because it is being used by another process.
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: The process cannot access the file 'C:\temp\sample - Copy - Copy - Copy.tiff' because it is being used by another process.
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: The process cannot access the file 'C:\temp\sample - Copy - Copy.tiff' because it is being used by another process.
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: The process cannot access the file 'C:\temp\sample - Copy.tiff' because it is being used by another process.
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: The process cannot access the file 'C:\temp\sample.tiff' because it is being used by another process.
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: The process cannot access the file 'C:\temp\sample - Copy - Copy - Copy.tiff' because it is being used by another process.
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: The process cannot access the file 'C:\temp\sample - Copy - Copy.tiff' because it is being used by another process.
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: The process cannot access the file 'C:\temp\sample - Copy.tiff' because it is being used by another process.
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: The process cannot access the file 'C:\temp\sample.tiff' because it is being used by another process.
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: C:\delete\sample - Copy.tiff.pdf
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: C:\delete\sample.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: C:\delete\sample - Copy.tiff.pdf
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: C:\delete\sample.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: C:\delete\sample - Copy.tiff.pdf
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: C:\delete\sample.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: C:\delete\sample - Copy.tiff.pdf
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: C:\delete\sample.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: C:\delete\sample - Copy.tiff.pdf
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: C:\delete\sample.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: C:\delete\sample - Copy.tiff.pdf
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: C:\delete\sample.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: C:\delete\sample - Copy.tiff.pdf
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: C:\delete\sample.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: C:\delete\sample - Copy.tiff.pdf
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: C:\delete\sample.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: C:\delete\sample - Copy.tiff.pdf
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: C:\delete\sample.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: C:\delete\sample - Copy.tiff.pdf
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: C:\delete\sample.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: C:\delete\sample - Copy.tiff.pdf
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: C:\delete\sample.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: C:\delete\sample - Copy.tiff.pdf
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: C:\delete\sample.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: C:\delete\sample - Copy.tiff.pdf
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: C:\delete\sample.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: C:\delete\sample - Copy.tiff.pdf
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: C:\delete\sample.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: C:\delete\sample - Copy.tiff.pdf
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: C:\delete\sample.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: C:\delete\sample - Copy.tiff.pdf
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: C:\delete\sample.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: C:\delete\sample - Copy.tiff.pdf
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: C:\delete\sample.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: C:\delete\sample - Copy.tiff.pdf
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: C:\delete\sample.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: C:\delete\sample - Copy.tiff.pdf
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: C:\delete\sample.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy.tiff
+C:\temp\sample - Copy - Copy.tiff was converted to: C:\delete\sample - Copy - Copy.tiff.pdf
+Compatible file found: C:\temp\sample - Copy.tiff
+C:\temp\sample - Copy.tiff was converted to: C:\delete\sample - Copy.tiff.pdf
+Compatible file found: C:\temp\sample.tiff
+C:\temp\sample.tiff was converted to: C:\delete\sample.tiff.pdf
+Compatible file found: C:\temp\sample - Copy - Copy - Copy.tiff
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: C:\delete\1.tiff.pdf
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: C:\delete\2.tiff.pdf
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: C:\delete\3.tiff.pdf
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: C:\delete\4.tiff.pdf
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: C:\delete\1.tiff.pdf
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: C:\delete\2.tiff.pdf
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: C:\delete\3.tiff.pdf
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: C:\delete\4.tiff.pdf
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: C:\delete\1.tiff.pdf
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: C:\delete\2.tiff.pdf
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: C:\delete\3.tiff.pdf
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: C:\delete\4.tiff.pdf
+Compatible file found: C:\temp\1.tiff
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: C:\delete\1.tiff.pdf
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: C:\delete\2.tiff.pdf
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: C:\delete\3.tiff.pdf
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: C:\delete\4.tiff.pdf
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: C:\delete\1.tiff.pdf
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: C:\delete\2.tiff.pdf
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: C:\delete\3.tiff.pdf
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: C:\delete\4.tiff.pdf
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: C:\delete\1.tiff.pdf
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: C:\delete\2.tiff.pdf
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: C:\delete\3.tiff.pdf
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: C:\delete\4.tiff.pdf
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: C:\delete\1.tiff.pdf
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: C:\delete\2.tiff.pdf
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: C:\delete\3.tiff.pdf
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: C:\delete\4.tiff.pdf
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: The process cannot access the file 'C:\temp\1.tiff' because it is being used by another process.
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: The process cannot access the file 'C:\temp\2.tiff' because it is being used by another process.
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: The process cannot access the file 'C:\temp\3.tiff' because it is being used by another process.
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: The process cannot access the file 'C:\temp\4.tiff' because it is being used by another process.
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: The process cannot access the file 'C:\temp\1.tiff' because it is being used by another process.
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: The process cannot access the file 'C:\temp\2.tiff' because it is being used by another process.
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: The process cannot access the file 'C:\temp\3.tiff' because it is being used by another process.
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: The process cannot access the file 'C:\temp\4.tiff' because it is being used by another process.
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: The process cannot access the file 'C:\temp\1.tiff' because it is being used by another process.
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: The process cannot access the file 'C:\temp\2.tiff' because it is being used by another process.
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: The process cannot access the file 'C:\temp\3.tiff' because it is being used by another process.
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: The process cannot access the file 'C:\temp\4.tiff' because it is being used by another process.
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: The process cannot access the file 'C:\temp\1.tiff' because it is being used by another process.
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: The process cannot access the file 'C:\temp\2.tiff' because it is being used by another process.
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: The process cannot access the file 'C:\temp\3.tiff' because it is being used by another process.
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: The process cannot access the file 'C:\temp\4.tiff' because it is being used by another process.
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: The process cannot access the file 'C:\temp\1.tiff' because it is being used by another process.
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: The process cannot access the file 'C:\temp\2.tiff' because it is being used by another process.
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: The process cannot access the file 'C:\temp\3.tiff' because it is being used by another process.
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: The process cannot access the file 'C:\temp\4.tiff' because it is being used by another process.
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: C:\delete\1.pdf
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: C:\delete\2.pdf
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: C:\delete\3.pdf
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: C:\delete\4.pdf
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: C:\delete\1.pdf
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: C:\delete\2.pdf
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: C:\delete\3.pdf
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: C:\delete\4.pdf
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: C:\delete\1.pdf
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: C:\delete\2.pdf
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: C:\delete\3.pdf
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: C:\delete\4.pdf
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: A generic error occurred in GDI+.
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: A generic error occurred in GDI+.
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: A generic error occurred in GDI+.
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: A generic error occurred in GDI+.
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: A generic error occurred in GDI+.
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: A generic error occurred in GDI+.
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: A generic error occurred in GDI+.
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: A generic error occurred in GDI+.
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: A generic error occurred in GDI+.
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: A generic error occurred in GDI+.
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: A generic error occurred in GDI+.
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: A generic error occurred in GDI+.
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: A generic error occurred in GDI+.
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: A generic error occurred in GDI+.
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: A generic error occurred in GDI+.
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: A generic error occurred in GDI+.
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: A generic error occurred in GDI+.
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: A generic error occurred in GDI+.
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: A generic error occurred in GDI+.
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: A generic error occurred in GDI+.
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: A generic error occurred in GDI+.
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: A generic error occurred in GDI+.
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: A generic error occurred in GDI+.
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: A generic error occurred in GDI+.
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: C:\delete\1.pdf
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: C:\delete\2.pdf
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: C:\delete\3.pdf
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: C:\delete\4.pdf
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: C:\delete\1.pdf
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: C:\delete\2.pdf
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: C:\delete\3.pdf
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: C:\delete\4.pdf
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: C:\delete\1.pdf
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: C:\delete\2.pdf
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: C:\delete\3.pdf
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: C:\delete\4.pdf
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: C:\delete\1.pdf
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: C:\delete\2.pdf
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: C:\delete\3.pdf
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: C:\delete\4.pdf
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: C:\delete\1.pdf
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: C:\delete\2.pdf
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: C:\delete\3.pdf
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: C:\delete\4.pdf
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: C:\delete\1.pdf
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: C:\delete\2.pdf
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: C:\delete\3.pdf
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: C:\delete\4.pdf
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: C:\delete\1.pdf
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: C:\delete\2.pdf
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: C:\delete\3.pdf
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: C:\delete\4.pdf
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: C:\delete\1.pdf
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: C:\delete\2.pdf
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: C:\delete\3.pdf
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: C:\delete\4.pdf
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: C:\delete\1.pdf
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: C:\delete\2.pdf
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: C:\delete\3.pdf
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: C:\delete\4.pdf
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: C:\delete\1.pdf
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: C:\delete\2.pdf
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: C:\delete\3.pdf
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: C:\delete\4.pdf
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: C:\delete\1.pdf
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: C:\delete\2.pdf
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: C:\delete\3.pdf
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: C:\delete\4.pdf
+Compatible file found: C:\temp\1.tiff
+C:\temp\1.tiff was converted to: C:\delete\1.pdf
+Compatible file found: C:\temp\2.tiff
+C:\temp\2.tiff was converted to: C:\delete\2.pdf
+Compatible file found: C:\temp\3.tiff
+C:\temp\3.tiff was converted to: C:\delete\3.pdf
+Compatible file found: C:\temp\4.tiff
+C:\temp\4.tiff was converted to: C:\delete\4.pdf
+Compatible file found: C:\temp\cman.tif
+C:\temp\cman.tif was converted to: \\abq-ctxdc-01\c$\Support\cman.pdf
