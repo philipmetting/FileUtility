@@ -1,5 +1,5 @@
 ﻿InputFolderLocation|C:\temp\
-OutputFolderLocation|\\abq-ctxdc-01\c$\Support\
+OutputFolderLocation|c:\Support\
 CopyFolderLocation|C:\FaxBackup\
 DaysToKeepCopy|30
 UsersToEmail|philipmetting@ernesthealth.com
