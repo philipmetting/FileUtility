@@ -12,6 +12,9 @@ namespace FileUtilityService
         public static string CopyFolderLocation;
         public static string DaysToKeepCopy;
         public static string UsersToEmail;
+        public static string FromEmail;
+        public static string EmailBody;
+        public static string EmailSubject;
         public static List<string> emailAddresses;
 
         public static void FillOptions()
@@ -64,6 +67,18 @@ namespace FileUtilityService
         public static void setDaysToKeepCopy(string daysToKeepCopy)
         {
             DaysToKeepCopy = daysToKeepCopy;
+        }
+        public static void setEmailSubject(string emailSubject)
+        {
+            EmailSubject = emailSubject;
+        }
+        public static void setEmailBody(string emailBody)
+        {
+            EmailBody = emailBody;
+        }
+        public static void setFromEmail(string fromEmail)
+        {
+            FromEmail = fromEmail;
         }
         public static void setUsersToEmail(string usersToEmail)
         {
