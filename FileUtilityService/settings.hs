@@ -1,9 +1,9 @@
 ﻿InputFolderLocation|C:\temp\
 OutputFolderLocation|c:\Support\
-CopyFolderLocation|C:\FaxBackup\
+CopyFolderLocation|C:\Fax Backup\
 DaysToKeepCopy|30
-UsersToEmail|philipmetting@ernesthealth.com
-FromEmail|BloomingtonFax@ErnestHealth.com
+UsersToEmail|philipmetting@gmail.com
+FromEmail|Fax@gmail.com
 EmailSubject|Incoming Fax
 EmailBody|You have received a fax!
-SupportEmail|philipmetting@ernesthealth.com
+SupportEmail|philipmetting@gmail.com
