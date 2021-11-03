@@ -6,3 +6,4 @@ UsersToEmail|philipmetting@ernesthealth.com
 FromEmail|BloomingtonFax@ErnestHealth.com
 EmailSubject|Incoming Fax
 EmailBody|You have received a fax!
+SupportEmail|philipmetting@ernesthealth.com

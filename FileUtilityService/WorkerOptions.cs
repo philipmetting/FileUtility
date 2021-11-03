@@ -10,13 +10,18 @@ namespace FileUtilityService
         public static string InputFolderLocation;
         public static string OutputFolderLocation;
         public static string CopyFolderLocation;
-        public static string DaysToKeepCopy;
+        public static int DaysToKeepCopy;
         public static string UsersToEmail;
         public static string FromEmail;
         public static string EmailBody;
         public static string EmailSubject;
+        public static string SupportEmail;
         public static List<string> emailAddresses;
 
+        /// <summary>
+        /// Fill in default options
+        /// Convert this to a JSON file when all settings are ready
+        /// </summary>
         public static void FillOptions()
         {
 
@@ -42,14 +47,34 @@ namespace FileUtilityService
                 {
                     setUsersToEmail(line.Split('|')[1]);
                 }
+                if (line.Split('|')[0] == "FromEmail")
+                {
+                    setFromEmail(line.Split('|')[1]);
+                }
+                if (line.Split('|')[0] == "EmailBody")
+                {
+                    setEmailBody(line.Split('|')[1]);
+                }
+                if (line.Split('|')[0] == "SupportEmail")
+                {
+                    setSupportEmail(line.Split('|')[1]);
+                }
             }
 
             if(!Directory.Exists(InputFolderLocation))
             {
                 Directory.CreateDirectory(InputFolderLocation);
             }
-            
-            
+            if (!Directory.Exists(OutputFolderLocation))
+            {
+                Directory.CreateDirectory(OutputFolderLocation);
+            }
+            if (!Directory.Exists(CopyFolderLocation))
+            {
+                Directory.CreateDirectory(CopyFolderLocation);
+            }
+
+
         }
 
         public static void setInputFolderLocation(string inputfolderlocation)
@@ -66,7 +91,7 @@ namespace FileUtilityService
         }
         public static void setDaysToKeepCopy(string daysToKeepCopy)
         {
-            DaysToKeepCopy = daysToKeepCopy;
+            DaysToKeepCopy = Convert.ToInt32(daysToKeepCopy);
         }
         public static void setEmailSubject(string emailSubject)
         {
@@ -78,7 +103,11 @@ namespace FileUtilityService
         }
         public static void setFromEmail(string fromEmail)
         {
-            FromEmail = fromEmail;
+            FromEmail = fromEmail; 
+        }
+        public static void setSupportEmail(string supportEmail)
+        {
+            SupportEmail = supportEmail;
         }
         public static void setUsersToEmail(string usersToEmail)
         {

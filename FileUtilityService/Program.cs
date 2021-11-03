@@ -22,7 +22,9 @@ namespace FileUtilityService
             .UseWindowsService()
                 .ConfigureServices((hostContext, services) =>
                 {
+                    //start threads for the worker service and file history service
                     services.AddHostedService<Worker>();
+                    services.AddHostedService<FileHistory>();
                 });
     }
 }

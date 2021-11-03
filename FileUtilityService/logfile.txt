@@ -1,3 +1,25 @@
 Compatible file found: C:\temp\bridge512x512.tif
 Compatible file found: C:\temp\bridge512x512.tif
 C:\temp\bridge512x512.tif was converted to: \\abq-ctxdc-01\c$\Support\bridge512x512.pdf
+Compatible file found: C:\temp\at3_1m4_01.tif
+C:\temp\at3_1m4_01.tif was converted to: c:\Support\at3_1m4_01.pdf
+Compatible file found: C:\temp\at3_1m4_01.tif
+C:\temp\at3_1m4_01.tif was converted to: c:\Support\at3_1m4_01.pdf
+Compatible file found: C:\temp\at3_1m4_01.tif
+C:\temp\at3_1m4_01.tif was converted to: c:\Support\at3_1m4_01.pdf
+Compatible file found: C:\temp\at3_1m4_01.tif
+C:\temp\at3_1m4_01.tif was converted to: c:\Support\at3_1m4_01.pdf
+Compatible file found: C:\temp\at3_1m4_01.tif
+C:\temp\at3_1m4_01.tif was converted to: c:\Support\at3_1m4_01.pdf
+Compatible file found: C:\temp\at3_1m4_01.tif
+C:\temp\at3_1m4_01.tif was converted to: c:\Support\at3_1m4_01.pdf
+Compatible file found: C:\temp\at3_1m4_01.tif
+C:\temp\at3_1m4_01.tif was converted to: c:\Support\at3_1m4_01.pdf
+Compatible file found: C:\temp\at3_1m4_01.tif
+C:\temp\at3_1m4_01.tif was converted to: Could not find a part of the path 'c:\Support\at3_1m4_0111\3\2021.pdf'.
+Compatible file found: C:\temp\at3_1m4_01.tif
+C:\temp\at3_1m4_01.tif was converted to: c:\Support\at3_1m4_0103 Nov 11 36 27.pdf
+Compatible file found: C:\temp\at3_1m4_01.tif
+C:\temp\at3_1m4_01.tif was converted to: c:\Support\at3_1m4_01 03 Nov 12 01 23.pdf
+Compatible file found: C:\temp\at3_1m4_01.tif
+C:\temp\at3_1m4_01.tif was converted to: c:\Support\at3_1m4_01 03 Nov 12 11 00.pdf

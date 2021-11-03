@@ -25,11 +25,14 @@ namespace FileUtilityService
                 int pageCount = 0;
                 Image Tiff;
                 String Filename = System.IO.Path.GetFileNameWithoutExtension(filename);
+
+                //open the file stream and get it ready for auto destruction
                 using (FileStream fs = new FileStream(filename, FileMode.Open))
                 {
+                    //import an image from the filestream as a tif
                     Tiff = Image.FromStream(fs);
 
-
+                    //get page count of tiff
                     pageCount = Tiff.GetFrameCount(FrameDimension.Page);
 
                     for (int a = 0; a < pageCount; a++)
@@ -41,16 +44,18 @@ namespace FileUtilityService
                         XImage image = XImage.FromStream(StreamUtils.ToStream(Tiff, ImageFormat.Tiff));
                         gfxTiff.DrawImage(image, 0, 0);
                     }
+
                     Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
                     //remove old file extension
                 }
-                    string newfile = Filename;
+                string newfile = Filename;
 
-                    string savePath = WorkerOptions.OutputFolderLocation + newfile + ".pdf";
+                //create the new file name to include day month hour minute and second of creation to avoid conflicts if necessary
+                string savePath = WorkerOptions.OutputFolderLocation + newfile+ " " + DateTime.Now.ToString("dd MMM HH mm ss") + ".pdf";
 
-                    s_document.Save(savePath);
-                    s_document.Close();
-                    //File.Delete(filename);
+                s_document.Save(savePath);
+                s_document.Close();
+                //File.Delete(filename);
                 
                 return savePath;
             }
