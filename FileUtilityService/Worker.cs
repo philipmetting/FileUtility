@@ -45,9 +45,9 @@ namespace FileUtilityService
                     if (Path.GetExtension(item) == ".tiff" || Path.GetExtension(item) == ".tif")
                     {
                         string PDFMessage = "";
-                        _logger.LogInformation("A compatible file was found: " + Path.GetFileName(item));
-                        _logger.LogInformation("Converting: " + Path.GetFileName(item));
-                        await File.AppendAllTextAsync(@".\logfile.txt", "Compatible file found: " + item + Environment.NewLine);
+
+                        FileUtilityEventLog.WriteTo("Compatible file found: " + item, "Information");
+
                         FileInfo fileInfo = new FileInfo(item);
                         String Filename = System.IO.Path.GetFileNameWithoutExtension(item);
 
@@ -60,24 +60,24 @@ namespace FileUtilityService
                             //Send the file to the PDF converter and return the resulting file path.
                             PDFMessage = PDFFunctions.ConvertTiffToPdf(item) + Environment.NewLine;
 
-                            await File.AppendAllTextAsync(@".\logfile.txt", item + " was converted to: " + PDFMessage);
-                            _logger.LogInformation("Converted: " + item + " to " + PDFMessage);
+                            FileUtilityEventLog.WriteTo("Converted: " + item + " to " + PDFMessage, "Information");
                             //File.Delete(item);
 
                         }
                         catch (Exception ex)
                         {
-                            _logger.LogInformation("Failed to Convert: " + item + " | " + ex.Message);
+                            FileUtilityEventLog.WriteTo("Failed to Convert: " + item + " | " + ex.Message, "Error");
                         }
 
                         //attempt to send the file as an email to all recepients
                         try
                         {
                             SendMail.Send(PDFMessage.TrimEnd(Environment.NewLine.ToCharArray()));
+                            FileUtilityEventLog.WriteTo("Mail sent for " + item , "Information");
                         }
                         catch(Exception ex)
                         {
-                            _logger.LogInformation(ex.Message);
+                            FileUtilityEventLog.WriteTo("Failed to Send Mail: " + item + " | " + ex.Message, "Error");
                         }
 
                         //attempt to delete the original file
@@ -88,7 +88,8 @@ namespace FileUtilityService
                         }
                         catch (Exception ex)
                         {
-                            _logger.LogInformation("Failed to Delete: " + item + " | " + ex.Message);
+                            
+                            FileUtilityEventLog.WriteTo("Failed to Delete: " + item + " | " + ex.Message, "Error");
                         }
 
 
