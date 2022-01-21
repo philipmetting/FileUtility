@@ -18,7 +18,7 @@ namespace FileUtilityService
             if (!EventLog.SourceExists(eventLogSource))
             {
                 //Uncomment the below line when buiding for release. 
-                //EventLog.CreateEventSource(eventLogSource, "FaxFileUtilityService");
+                EventLog.CreateEventSource(eventLogSource, "FaxFileUtilityService");
             }
 
             EventLog eventLog = new EventLog();

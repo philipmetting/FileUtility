@@ -39,10 +39,11 @@ namespace FileUtilityService
 
                 var input = _inputFolderLocation;
                 var files = Directory.GetFiles(input);
-
+                
                 foreach (var item in files)
-                { 
-                    if (Path.GetExtension(item) == ".tiff" || Path.GetExtension(item) == ".tif")
+                {
+                    var ext = Path.GetExtension(item);
+                    if (string.Equals(Path.GetExtension(item), ".tiff", StringComparison.OrdinalIgnoreCase) || string.Equals(Path.GetExtension(item), ".tif", StringComparison.OrdinalIgnoreCase))
                     {
                         string PDFMessage = "";
 
@@ -51,9 +52,18 @@ namespace FileUtilityService
                         FileInfo fileInfo = new FileInfo(item);
                         String Filename = System.IO.Path.GetFileNameWithoutExtension(item);
 
-                        //make a copy of the original file in the folder designated from settings - CopyFolderLocation. 
-                        File.Copy(item, WorkerOptions.CopyFolderLocation + Filename + " " + DateTime.Now.ToString("dd MMM HH mm ss") + Path.GetExtension(item));
 
+                        try
+                        {
+                            //make a copy of the original file in the folder designated from settings - CopyFolderLocation. 
+                            File.Copy(item, WorkerOptions.CopyFolderLocation + Filename + " " + DateTime.Now.ToString("dd MMM HH mm ss") + Path.GetExtension(item));
+
+                        }
+                        catch (Exception ex)
+                        {
+
+                            FileUtilityEventLog.WriteTo("Error Copying File: " + ex.Message, "Information");
+                        }
                         //send the file to the Tif to PDF converter (PDFFunctions)
                         try
                         {
